@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bakeli-si-mobile</string>
+
+    <string-array name="civilite">
+        <item>Civilité</item>
+        <item>Monsieur</item>
+        <item>Madame</item>
+    </string-array>
+
+    <string-array name="matrimoniale">
+        <item>Matrimoniale</item>
+        <item>Célibataire</item>
+        <item>Marié</item>
+    </string-array>
+</resources>
